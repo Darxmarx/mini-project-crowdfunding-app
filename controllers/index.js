@@ -1,3 +1,4 @@
+// require router, check api folder for routes
 const router = require('express').Router();
 const apiRoutes = require('./api');
 
